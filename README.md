@@ -1,2 +1,11 @@
-# Sentiment-Analysis-Web-App
-A Flask-based Sentiment Analysis Web Application that classifies user-entered text as Positive, Negative, or Neutral using TextBlob and displays sentiment polarity and subjectivity scores.
+# Sentiment Analysis Web App
+
+Libraries:
+- Flask
+- TextBlob
+
+Features:
+- User Input
+- Positive/Negative/Neutral Detection
+- Polarity Score
+- Subjectivity Score
